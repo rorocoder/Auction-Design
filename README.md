@@ -30,7 +30,7 @@ U3 Honors Topics
     2. The auction is ongoing (not during any of the breaks) 
     3. You shut down your laptop (presumably being forced by the teacher to do so) 
 - The Punishment: You will be forced to pay your last bid and be barred from participating in the auction anymore. If your last bid happens to be the highest bid, then user with the 2nd highest bid will be considered the top bidder and you will be taken out of the running.
-  - NOTE: You will not be punished for closing your laptop if you clicked the “I Give Up” button
+  - Note: You will not be punished for closing your laptop if you clicked the “I Give Up” button at least ONE MINUTE BEFOREHAND
 - If caught a message is displayed on the auction to all users saying “ [X Person] has been caught!] ”
 - Two leaderboards will be displayed: 
     1. people who have the most amount of punishments
