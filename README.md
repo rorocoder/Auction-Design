@@ -3,10 +3,13 @@ U3 Honors Topics
 
 ## AUCTION DESIGN: PUNISHER EDITION
 
+>"Holy shit this is psychotic" - Kevin when he I sent this to him
+
 ###### Bidding
 - Item up for bid starts on a low price or zero - the starting bid can match that price
 - All subsequent bids must be an increase of the previous bidders amount
-- If there are no more bids after 10 minutes, the item goes to the last bidder
+- If there are no more bids for 10 minutes after the last bid, the item goes to the last bidder
+  1. This timer is set to 30 minutes for the first 3 bids of the auction (in order to guarantee people have time to see the auction is up)
 
 ###### Interaction
 - Users type in the amount they’d like to bid and press enter to submit it
@@ -18,7 +21,7 @@ U3 Honors Topics
 ###### Timing of Bids
 - Bidding may ONLY take place during class blocks 
 -While on break, directed study, lunch or after school, you may see all information about the current auction but everyone is locked out of participating
-- If the 10 minute timer to end the auction has not terminated by the end of the last class block, the 10 minute timer restarts at the beginning of the next class block
+- If the 10 (or 30) minute timer to end the auction has not terminated by the end of the last class block, the timer restarts at the beginning of the next class block
 - Timings of classes will be determined through iHW
 
 
