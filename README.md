@@ -40,3 +40,7 @@ U3 Honors Topics
     2. the highest amounts forfeited by users who've been caught
 - When punished, users will enter which teacher forced them to shut their laptop. Another leaderboard will be listed with the teachers who punished the people the most
 - All amounts paid through punishment will be gathered into a pot, and will be given out as prizes for the next prefect council sponsored tournament (dodgeball, spikeball, chess, ping pong, etc)
+
+## Alternative Proposal
+
+Combine my design with Kevin's, where we play games to bid. That way, it becomes easier to get caught by teachers for bidding. 
